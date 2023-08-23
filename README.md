@@ -4,3 +4,8 @@ This repository contains the setup scripts to enable wireless functionality on t
 
 ## [Raspberry Pi 4](raspberry-pi-4/README.md)
 
+
+
+#### [ThousandEyes tiles] (https://github.com/technicalnoodles/thousandEyes-tiles)
+https://github.com/technicalnoodles/thousandEyes-tiles
+
