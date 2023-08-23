@@ -6,6 +6,6 @@ This repository contains the setup scripts to enable wireless functionality on t
 
 
 
-#### [ThousandEyes tiles] (https://github.com/technicalnoodles/thousandEyes-tiles)
+#### ThousandEyes tiles
 https://github.com/technicalnoodles/thousandEyes-tiles
 
